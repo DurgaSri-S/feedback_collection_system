@@ -51,7 +51,7 @@ There is a need for a centralized, digital feedback collection system that allow
 **Prerequisites**
 - Node.js and npm installed
 - MongoDB instance (local or [MongoDB Atlas](https://www.mongodb.com/cloud/atlas))
-- Git (for cloning)
+- Git (for cloning) 
 
 
  
